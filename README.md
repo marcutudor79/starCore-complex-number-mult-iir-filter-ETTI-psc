@@ -14,7 +14,7 @@ using the C project with the ones computed in Matlab
 - For the Complex number array multiplication, please refer to [complex-number-array-documentation.pdf](complex-number-array-documentation.pdf)
 
 ## License
-GPL v3.0
+GPL-3.0 license
 
 
 
